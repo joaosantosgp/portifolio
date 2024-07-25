@@ -1,0 +1,13 @@
+body{
+    background-color: #212529;
+}
+
+.container{
+    width: 100%;
+    margin-top: 7%;
+    height: 855px;
+}
+
+.carousel-inner {
+    margin-top: 10%;
+}
