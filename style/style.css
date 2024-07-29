@@ -13,26 +13,23 @@ body{
 }
 
 #principal-row-main {
-    height: 400px;
+    height: auto;
     background-color: yellow;
 }
 
 #primary-column-row {
-    height: 400px;
-    background-color: bisque;
+    height: auto;
     float: left;
 }
 
 #second-column-row{
-    height: 400px;
-    background-color: aliceblue;
+    height: auto;
     float: left;
     
 }
 
 #third-column-row {
-    height: 400px;
-    background-color: rebeccapurple;
+    height: auto;
     float: left;
 }
 
