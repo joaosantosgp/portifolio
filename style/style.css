@@ -11,3 +11,21 @@ body{
 .carousel-inner {
     margin-top: 10%;
 }
+
+#principal-row-main {
+    height: 400px;
+    background-color: yellow;
+}
+
+#primary-column-row {
+    height: 400px;
+    background-color: bisque;
+    align-items: center;
+    text-align: center;
+}
+
+#principal-row-footer {
+    height: 300px;
+    background-color: aqua;
+    margin-top: 7%;
+}
