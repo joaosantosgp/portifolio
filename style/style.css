@@ -38,3 +38,7 @@ body{
     text-align: center;
     justify-content: center;
 }
+#div-main-footer{
+    height: 200px;
+    background-color: azure;
+}
