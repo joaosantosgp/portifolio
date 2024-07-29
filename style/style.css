@@ -20,8 +20,26 @@ body{
 #primary-column-row {
     height: 400px;
     background-color: bisque;
-    align-items: center;
+    float: left;
+}
+
+#second-column-row{
+    height: 400px;
+    background-color: aliceblue;
+    float: left;
+    
+}
+
+#third-column-row {
+    height: 400px;
+    background-color: rebeccapurple;
+    float: left;
+}
+
+.card {
+    
     text-align: center;
+    justify-content: center;
 }
 
 #principal-row-footer {
