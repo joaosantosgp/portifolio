@@ -1,3 +1,16 @@
 body{
     background-color: #212529;
 }
+.container{
+    height: auto;
+    margin-top: 7%;
+}
+#second-container{
+    margin-top: 3%;
+}
+#trird-container{
+    margin-top: 3%;
+}
+#forty-container{
+    margin-top: 3%;
+}
