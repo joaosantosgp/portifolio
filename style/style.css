@@ -13,7 +13,7 @@ body{
 }
 
 #principal-row-main {
-    height: auto;
+    height: 400px;
     margin-top: 10%;
 }
 
@@ -37,8 +37,4 @@ body{
     
     text-align: center;
     justify-content: center;
-}
-#div-main-footer{
-    height: 200px;
-    background-color: azure;
 }
