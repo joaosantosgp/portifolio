@@ -1,3 +1,14 @@
 body{
     background-color: #212529;
 }
+.container{
+    height: 450px;
+    background-color: aliceblue;
+    margin-top: 7%;
+}
+#second-container{
+    height: 450px;
+    background-color: antiquewhite;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
