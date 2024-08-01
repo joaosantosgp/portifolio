@@ -4,11 +4,23 @@ body{
 .container{
     height: 500px;
     background-color: aliceblue;
-    margin-top: 7%;
+    margin-top: 10%;
 }
 #second-container{
     height: 450px;
     background-color: antiquewhite;
     margin-top: 1%;
     margin-bottom: 2%;
+}
+#primary-part{
+    height: 500px;
+    background-color: aqua;
+}
+#second-part{
+    background-color: blueviolet;
+    height: 500px;
+}
+#img-primary-part{
+    margin-top: 7%;
+    border-radius: 15px;
 }
