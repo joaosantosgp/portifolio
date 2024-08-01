@@ -7,7 +7,7 @@ body{
     margin-top: 10%;
 }
 #second-container{
-    height: 450px;
+    height: 600px;
     background-color: antiquewhite;
     margin-top: 1%;
     margin-bottom: 2%;
@@ -17,10 +17,23 @@ body{
     background-color: aqua;
 }
 #second-part{
-    background-color: blueviolet;
+    background-color: black;
     height: 500px;
 }
 #img-primary-part{
     margin-top: 7%;
     border-radius: 15px;
+}
+#title-primary-part{
+    margin-top: 2%;
+}
+
+
+#primary-part-container-2{
+    background-color:  rgb(48, 29, 29);
+    height: 600px;
+}
+#second-part-container-2{
+    background-color: rgb(7, 1, 39);
+    height: 600px;
 }
