@@ -14,3 +14,8 @@ body{
     height: 600px;
     border-radius: 15px;
 }
+#second-container {
+    margin-top: 3%;
+    background-color: aqua;
+    height: 500px;
+}
