@@ -1,0 +1,16 @@
+body{
+    background-color: #212529;
+}
+.container{
+    height: 600px;
+    margin-top: 10%;
+
+}
+#center-col {
+    height: 600px;
+}
+#main-content {
+    background-color: brown;
+    height: 600px;
+    border-radius: 15px;
+}
