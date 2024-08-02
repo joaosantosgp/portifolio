@@ -1,0 +1,25 @@
+body{
+    background-color: #212529;
+}
+.container{
+    height: 600px;
+    margin-top: 10%;
+
+}
+#center-col {
+    height: 600px;
+}
+#main-content {
+    background-color: brown;
+    height: 600px;
+    border-radius: 15px;
+}
+#second-container {
+    margin-top: 10%;
+    height: 50px;
+}
+#trird-container{
+    margin-top: 2%;
+    height: auto;
+    margin-bottom: 2%;
+}
