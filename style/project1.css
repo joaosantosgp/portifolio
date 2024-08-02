@@ -15,7 +15,11 @@ body{
     border-radius: 15px;
 }
 #second-container {
-    margin-top: 3%;
-    background-color: aqua;
-    height: 500px;
+    margin-top: 4%;
+    height: 50px;
+}
+#trird-container{
+    height: 600px;
+    background-color: blue;
+    margin-bottom: 2%;
 }
