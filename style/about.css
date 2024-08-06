@@ -38,6 +38,11 @@ body{
     height: 650px;
     font-family: 'Courier New', Courier, monospace;
 }
+#trird-part-container-2{
+    height: 650px;
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
 
 
 #paragraph{
