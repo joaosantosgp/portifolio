@@ -7,7 +7,7 @@ body{
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 #second-container{
-    height: 600px;
+    height: 650px;
     background-color: antiquewhite;
     margin-top: 1%;
     margin-bottom: 2%;
@@ -31,11 +31,12 @@ body{
 
 #primary-part-container-2{
     background-color:  rgb(48, 29, 29);
-    height: 600px;
+    height: 650px;
 }
 #second-part-container-2{
     background-color: rgb(7, 1, 39);
-    height: 600px;
+    height: 650px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
