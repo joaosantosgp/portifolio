@@ -3,7 +3,6 @@ body{
 }
 .container{
     height: 500px;
-    background-color: aliceblue;
     margin-top: 10%;
 }
 #second-container{
@@ -14,10 +13,8 @@ body{
 }
 #primary-part{
     height: 500px;
-    background-color: aqua;
 }
 #second-part{
-    background-color: black;
     height: 500px;
 }
 #img-primary-part{
