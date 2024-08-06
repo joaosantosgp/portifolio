@@ -32,6 +32,7 @@ body{
 #primary-part-container-2{
     background-color:  rgb(48, 29, 29);
     height: 650px;
+    font-family: 'Courier New', Courier, monospace;
 }
 #second-part-container-2{
     background-color: rgb(7, 1, 39);
