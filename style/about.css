@@ -37,3 +37,9 @@ body{
     background-color: rgb(7, 1, 39);
     height: 600px;
 }
+
+
+#paragraph{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
