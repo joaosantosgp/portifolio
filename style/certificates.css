@@ -4,6 +4,7 @@ body{
 .container{
     height: auto;
     margin-top: 7%;
+    font-family: 'Courier New', Courier, monospace;
 }
 #second-container{
     margin-top: 3%;
