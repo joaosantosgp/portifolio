@@ -46,3 +46,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     text-align: justify;
 }
+#a-logo{
+    margin-left: 7%;
+    text-decoration: none;
+}
