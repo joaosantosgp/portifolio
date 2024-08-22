@@ -38,3 +38,7 @@ body{
     text-align: center;
     justify-content: center;
 }
+#class-for-center{
+    height: 350px;
+    float: left;
+}
