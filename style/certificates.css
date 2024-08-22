@@ -19,3 +19,21 @@ body{
     border-radius: 15px;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
+#concluido{
+    height: 30px;
+    background-color: #53AD35;
+    border-radius: 8px;
+    font-size: 21px;
+}
+#andamento{
+    height: 30px;
+    background-color: #CECB32;
+    border-radius: 8px;
+    font-size: 21px;
+}
+#darei-inicio{
+    height: 30px;
+    background-color: #2F327F;
+    border-radius: 8px;
+    font-size: 21px;
+}
