@@ -42,3 +42,13 @@ body{
     height: 350px;
     float: left;
 }
+#primary-column-row :hover{
+    box-shadow: rgba(28, 48, 223, 0.397) 0px 7px 29px 0px;
+}
+second-column-row :hover{
+    box-shadow: rgba(28, 48, 223, 0.397) 0px 7px 29px 0px;
+
+}
+#second-column-row :hover{
+    box-shadow: rgba(28, 48, 223, 0.397) 0px 7px 29px 0px;
+}
